@@ -1,1 +1,1 @@
-Dark and Light Themed Calculator wirh html, scss and js.
+Dark and Light Themed Calculator with html, scss and js.
